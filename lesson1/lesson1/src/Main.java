@@ -13,7 +13,6 @@ public class Main {
         System.out.println("Ingresa algo: ");
         String nombre = scanner.nextLine();
         scanner.close();
-        
         System.out.println("lo que ingrese fue: " + nombre);
     }
 }
